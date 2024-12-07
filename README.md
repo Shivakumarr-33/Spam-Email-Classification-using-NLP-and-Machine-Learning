@@ -14,3 +14,6 @@ Visualizations of most frequent spam words using Seaborn.</p>
 <p> Run the Streamlit App: Launch the web application using the following command:</p>
 
 <p> streamlit run app.py</p>
+
+![image](https://github.com/user-attachments/assets/b6ef0a45-b397-45f2-9b3e-a5dcd6031d98)
+
