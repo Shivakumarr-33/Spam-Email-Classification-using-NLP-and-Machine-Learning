@@ -9,6 +9,19 @@ Feature extraction using TF-IDF.
 Machine learning models for classification.
 Visualizations of most frequent spam words using Seaborn.</p>
 
+<h1>Key Features</h1>
+<h2>Data Preprocessing</h2>
+<p>Cleaning and tokenization of email text.
+Conversion of text into a structured format for analysis.</p>
+<h2>Feature Extraction</h2>
+<p>Implementation of TF-IDF (Term Frequency-Inverse Document Frequency) for representing textual data as numerical features.</p>
+<h2>Machine Learning Models</h2>
+<p>Training and evaluation of models to classify emails.
+Comparison of model performances for optimal results.</p>
+<h2>Visualization</h2>
+<p>Seaborn bar plots showcase the most frequent spam words with vibrant color palettes.</p>
+
+
 <h1>How To Execute</h1>
 
 <p> Run the Streamlit App: Launch the web application using the following command:</p>
